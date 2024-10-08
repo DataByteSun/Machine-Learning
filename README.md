@@ -22,3 +22,28 @@ To get started with the examples in this repository, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/DataByteSun/Machine-Learning.git
+
+## Examples
+Here we will explore 2 types of Machine Learning algorithm examples:
+1. Supervised Learning
+   - A. Regression
+      - [Linear Regression](Notebooks/Linear_regression.ipynb)
+      - Ridge Regression
+      - Lasso Regression
+      - Support Vector Regression (SVR)
+      - Decision Trees Regression
+      - Random Forest Regression
+      - Gradient Boosting Regression
+      - Neural Networks Regression
+   - B. Classification
+      - Logistic Regression
+      - Support Vector Machines (SVM)
+      - k-Nearest Neighbors (k-NN)
+      - Naive Bayes
+      - Decision Trees
+      - Random Forest
+      - Gradient Boosting (e.g., XGBoost, LightGBM, CatBoost)
+      - Neural Networks (e.g., Multilayer Perceptron)
+
+2. Unsupervised Learning
+   
