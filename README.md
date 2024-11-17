@@ -46,5 +46,7 @@ Here we will explore 2 types of Machine Learning algorithm examples:
       - Neural Networks (e.g., Multilayer Perceptron)
 
 2. Unsupervised Learning
-  - Clustering
+   - Clustering
+      - K-Means Clustering
+      - Hierarchical Clustering
    
