@@ -38,7 +38,7 @@ Here we will explore 2 types of Machine Learning algorithm examples:
    - B. Classification
       - Logistic Regression
       - Support Vector Machines (SVM)
-      - k-Nearest Neighbors (k-NN)
+      - k-Nearest Neighbors (KNN)
       - Naive Bayes
       - Decision Trees
       - Random Forest
@@ -46,4 +46,5 @@ Here we will explore 2 types of Machine Learning algorithm examples:
       - Neural Networks (e.g., Multilayer Perceptron)
 
 2. Unsupervised Learning
+  - Clustering
    
