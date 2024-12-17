@@ -1,5 +1,6 @@
 ## Regression
-- Linear Regression => [Notebook](Notebooks/Linear_regression.ipynb) | [PDF] ()
+- Simple Linear Regression => [Notebook](Notebooks/Simple_Linear_Regression.ipynb) | [PDF] ()
+- Multiple Linear Regression => [Notebook](Notebooks/Multiple_Linear_regression.ipynb) | [PDF] ()
 - Ridge Regression
 - Lasso Regression
 - Support Vector Regression (SVR)
