@@ -8,8 +8,6 @@ Welcome to the Machine Learning Stories repository! This repository contains cod
 - [Getting Started](#getting-started)
 - [Examples](#examples)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -50,3 +48,6 @@ Here we will explore 2 types of Machine Learning algorithm examples:
       - K-Means Clustering
       - Hierarchical Clustering
    
+## Technologies Used
+- **Programming Language:** Python
+- **Tools:** Jupyter Notebook
