@@ -2,19 +2,7 @@
 
 Welcome to the Machine Learning Stories repository! This repository contains code samples and Jupyter notebooks demonstrating various machine learning techniques and algorithms, along with stories and explanations for each method.
 
-## Introduction
-
-This repository is designed for learners and practitioners of machine learning. Each Jupyter notebook provides a practical example of a specific algorithm, complete with a story explaining the context and purpose of the work.
-
-## Getting Started
-
-To get started with the examples in this repository, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DataByteSun/Machine-Learning.git
-
-## Examples
+## ML Algorithms
 Here we will explore 2 types of Machine Learning algorithm examples:
 1. Supervised Learning
    - A. [Regression](Regression/README.md)
@@ -40,7 +28,16 @@ Here we will explore 2 types of Machine Learning algorithm examples:
    - Clustering
       - K-Means Clustering
       - Hierarchical Clustering
-   
+
+## Getting Started
+
+To get started with the examples in this repository, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/DataByteSun/Machine-Learning.git
+
 ## Technologies Used
 - **Programming Language:** Python
 - **Tools:** Jupyter Notebook
+
