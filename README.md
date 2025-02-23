@@ -6,21 +6,21 @@ Welcome to the Machine Learning Stories repository! This repository contains cod
 Here we will explore 2 types of Machine Learning algorithm examples:
 1. Supervised Learning
    - A. [Regression](Regression/README.md)
-      - Linear Regression
+      - [Linear Regression](Regression/Notebooks/Multiple_Linear_regression.ipynb)
       - Ridge Regression
-      - Lasso Regression
+      - [Lasso Regression](Regression/Notebooks/Lasso_Regression.ipynb)
       - Support Vector Regression (SVR)
       - Decision Trees Regression
       - Random Forest Regression
       - Gradient Boosting Regression
       - Neural Networks Regression
-   - B. Classification
+   - B. [Classification](Classification/README.md)
       - Logistic Regression
       - Support Vector Machines (SVM)
       - k-Nearest Neighbors (KNN)
       - Naive Bayes
-      - Decision Trees
-      - Random Forest
+      - [Decision Trees](Classification/Notebooks/Decision_Tree.ipynb)
+      - [Random Forest](Classification/Notebooks/Random_Forest_Tree.ipynb)
       - Gradient Boosting (e.g., XGBoost, LightGBM, CatBoost)
       - Neural Networks (e.g., Multilayer Perceptron)
 
